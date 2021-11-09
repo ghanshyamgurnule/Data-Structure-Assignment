@@ -1,0 +1,10 @@
+Step 1. Start
+Step 2. Declare p, c, m ,result
+Step 3. initialize p, i, t
+Step 4. IF p>60 and c>60 and m>60
+		print "Passed"
+	ELSE IF p>60 and c>60 or p>60 and m>60 or c>60 and m>60
+                print "Promoted"
+        ELSE
+               print "Failed"
+Step 5. Stop

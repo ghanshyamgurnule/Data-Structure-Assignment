@@ -1,0 +1,27 @@
+Step 1. Start
+Step 2. Declare i, j, total, avg, array A, B and C and their type
+Step 3. Initialize index i=1, j=1, total=0
+Step 4. Increment i and i<=3 otherwise step 7
+Step 5. print "Enter marks of st i for Subject A, B, C
+Step 6. Read marks for subject A[i]
+	Read marks for subject B[i]
+        Read marks for subject C[i]
+        goto step 4
+Step 7. Increment i and i<=3
+Step 8. Increment j and j<=3
+Step 9. print "Total and average of marks of student i"
+             total=A[i]+B[i]+C[i]
+	     avg=total/3
+          print "total mark: 'total' and Average marks:'avg' marks of student"
+          goto step 13 
+Step 10. print "Total and average marks Scored by students in respective Subject"
+Step 11. total=array[1]+array[2]+array[3]
+          avg=total/3;
+          print "total mark: 'total' and Average marks:'avg' marks of subject A"
+Step 12. total=B[1]+B[2]+B[3]
+         avg=total/3;
+Step 13. print "total mark: 'total' and Average marks:'avg' marks of subject B"
+Step 14. total=C[1]+C[2]+C[3]
+          avg=total/3;
+Step 15. print "total mark: 'total' and Average marks:'avg' marks of subject C"
+Step 16. Stop

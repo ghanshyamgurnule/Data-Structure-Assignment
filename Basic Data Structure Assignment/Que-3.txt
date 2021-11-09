@@ -1,0 +1,7 @@
+Step 1. Start
+Step 2. Declare p, i, t, si, ci
+Step 3. initialize p, i, t
+Step 4. si=(p*i*t)/100
+Step 5. ci=p*((1+r/100)^t)
+Step 6. print "si" and "ci"
+Step 7. Stop

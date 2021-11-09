@@ -1,0 +1,16 @@
+Step 1. Start
+Step 2. Declare ctc, tax
+Step 3. Read ctc
+Step 4. IF ctc>=0 and ctc<=180000
+           print "Nil"
+        ELSE IF ctc>=181001 and ctc<=300000
+           	tax=(ctc*10)/100
+		print "tax"
+	ELSE IF ctc>=300001 and ctc<=500000
+                tax=(ctc*20)/100
+                print "tax"
+	ELSE IF ctc>=500001 and ctc<=1000000
+                tax=(ctc*30)/100
+                print "tax"
+Step 5. Stop
+	   

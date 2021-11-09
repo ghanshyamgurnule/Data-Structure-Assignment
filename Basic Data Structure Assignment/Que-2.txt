@@ -1,0 +1,12 @@
+Step 1. Start
+Step 2. Declare no1, no2, sum, n 
+Step 3. initialize no1=100, no2=999, sum=0, n=no1
+Step 4. increment from no1 and no1 <=no2 goto step 5 otherwise goto step 8
+Step 5. repeat until n>=0
+	 5.1 :sum=sum+n%10
+        
+	 5.2 :n=n/10
+Step 6. IF sum==no1
+		print " no1 "
+Step 7. goto step 4
+Step 8. Stop

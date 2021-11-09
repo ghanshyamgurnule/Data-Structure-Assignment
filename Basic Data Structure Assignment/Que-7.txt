@@ -1,0 +1,17 @@
+Step 1. Start
+Step 2. Declare array name and type, no and type, i, j
+Step 3. Initialize i=0 ,j=0
+Step 3. Read element for 'array' from user
+Step 4. Read no 
+Step 5. Increment array index i and i<15 otherwise goto step 7
+Step 6. IF 'no' present in index i
+		j=1
+                break loop
+	Else 
+             goto Step 5
+Step 7. IF j=1
+		print "present"
+	ELSE
+		print "not present"
+Step 8. Stop
+	   

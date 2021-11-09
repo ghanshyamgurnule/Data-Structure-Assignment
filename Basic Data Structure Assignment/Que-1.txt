@@ -1,0 +1,12 @@
+Step 1. Start
+Step 2. Declare no, sum, n
+Step 3. take number (no) from user 
+Step 4. initialize sum=0, n=no
+Step 5. repeat until n>=0
+	5.1 :sum=sum+n%10
+	5.2 :n=n/10
+Step 6: if sum==no
+		print "Armstrong Number"
+  	 ELSE
+		print "Not Armstrong Number"
+Step 7. Stop
